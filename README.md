@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Galip Efe Öncü</h1>
-<h3 align="center">A software engineering student from Firat University</h3>
+<h3 align="center">A software engineering student at Firat University</h3>
 
 - 🌱 I’m currently learning **Java**
 
