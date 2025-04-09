@@ -1,5 +1,5 @@
-<p align="center" style="font-size: 30px">Hey there! I'm Galip Efe Öncü 👋</p>
-<h3 align="center">A Software Engineering student at Firat University</h3>
+<p align="center"><strong style="font-size: 32px;">Hey there! I'm Galip Efe Öncü 👋</strong></p>
+<p align="center"><em>A Software Engineering student at Firat University</em></p>
 
 - 🎮 I'm passionate about game development  
 - 🌱 Currently learning **Unity** and working on small projects  
