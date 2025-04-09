@@ -5,7 +5,9 @@
     </summary>
   </ul>
 </div>
-<h2 align="center">A Software Engineering student at Firat University</h2>
+<h3 align="center">A Software Engineering student at Firat University</h3>
+
+---
 
 - 🎮 I'm passionate about game development  
 - 🌱 Currently learning **Unity** and working on small projects  
