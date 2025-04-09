@@ -1,4 +1,4 @@
-<h2 align="center">Hey there! I'm Galip Efe Öncü 👋</h2> <br>
+<h3 align="center">Hey there! I'm Galip Efe Öncü 👋</h3> <br>
 <h3 align="center">A Software Engineering student at Firat University</h3>
 
 - 🎮 I'm passionate about game development  
