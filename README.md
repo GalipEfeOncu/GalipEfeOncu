@@ -1,7 +1,11 @@
-<p align="center"><strong style="font-size: 32px;">Hey there! I'm Galip Efe Öncü 👋</strong></p>
-<p align="center"><em>A Software Engineering student at Firat University</em></p>
-
-<h1> deneme </h1>
+<div id="user-content-toc">
+  <ul align="center" style="list-style: none;">
+    <summary>
+      <h1>Hey There!👋🏻 I'm Galip Efe Öncü</h1>
+    </summary>
+  </ul>
+</div>
+<h3 align="center"><em>A Software Engineering student at Firat University</em></h3>
 
 - 🎮 I'm passionate about game development  
 - 🌱 Currently learning **Unity** and working on small projects  
