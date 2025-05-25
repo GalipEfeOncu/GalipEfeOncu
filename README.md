@@ -17,8 +17,8 @@
 
 <h3 align="left">🧩 Projects I'm working on:</h3>
 
-- 🎯 A space shooter game with Unity
-- 🧪 A simple inventory & crafting system using C#
+- 🎯 A rpg game with Unity
+- 🧪 Grid system
 
 ---
 
