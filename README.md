@@ -59,9 +59,5 @@
 ---
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galipefeoncu&layout=compact&langs_count=10" alt="GalipEfeOncu" />
-</p>
-
-<p align="left">
   <img src="https://komarev.com/ghpvc/?username=galipefeoncu&label=Profile%20views&color=0e75b6&style=flat" alt="galipefeoncu" />
 </p>
