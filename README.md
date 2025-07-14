@@ -10,15 +10,15 @@
 ---
 
 - 🎮 I'm passionate about game development  
-- 🌱 Currently learning **Unity** and working on small projects  
+- 🌱 Currently learning **Unity** and working on a project
 - 📫 Reach me at **galipefe75@gmail.com**
 
 ---
 
 <h3 align="left">🧩 Projects I'm working on:</h3>
 
-- 🎯 A rpg game with Unity
-- 🧪 Grid system
+- 🎯 A survival game with Unity
+- 🧪 Procedural Landmass Generator
 
 ---
 
