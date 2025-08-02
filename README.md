@@ -9,7 +9,7 @@
 
 ---
 
-- 🎮 I'm passionate about game development  
+- 🎮 Aspiring game developer.
 - 🌱 Currently learning **Unity** and working on a project
 - 📫 Reach me at **galipefe75@gmail.com**
 
