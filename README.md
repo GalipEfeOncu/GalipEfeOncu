@@ -17,8 +17,8 @@
 
 <h3 align="left">🧩 Projects I'm working on:</h3>
 
-- 🎯 A survival game with Unity
-- 🧪 Procedural Landmass Generator
+- 🎯 A rogulike game with Unity
+- 🧪 An app with DevExpress
 
 ---
 
