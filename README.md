@@ -38,7 +38,6 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=galipefeoncu&show_icons=true&theme=radical&v=1" alt="Efe's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=galipefeoncu&theme=radical" alt="Efe's GitHub Streak" width="48%" />
 </p>
 
