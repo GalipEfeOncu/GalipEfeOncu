@@ -5,7 +5,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://galipefeoncu.github.io/galipefe/" target="_blank">
+  <a href="https://galipefe.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐 View Portfolio-2D2E32?style=for-the-badge&logoColor=white" />
   </a>
 </p>
