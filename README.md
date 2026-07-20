@@ -8,7 +8,7 @@ I build full-stack applications, developer tools, and transparent AI-agent syste
 
 <br />
 
-<a href="https://https://www.galipefeoncu.com//">
+<a href="https://www.galipefeoncu.com/">
   <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-2D2E32?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 &nbsp;
